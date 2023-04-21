@@ -8,6 +8,10 @@ Prodeasy section component: An intuitive and user-friendly UI element designed t
 
 https://user-images.githubusercontent.com/12246927/221448105-297f70cc-aa22-421a-83e4-921c1bc32629.mov
 
+## Demo
+
+https://y5k9l8.csb.app/
+
 ## License
 
 Feel free to modify it as you like!
