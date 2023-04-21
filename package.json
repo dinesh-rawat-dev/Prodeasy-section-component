@@ -1,0 +1,22 @@
+{
+  "name": "prodeasy-section-component",
+  "version": "1.0.0",
+  "description": "Prodeasy section component: An intuitive and user-friendly UI element designed to simplify the process of creating and managing cards inside a section or a frame",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "fabric": "^4.5.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "typescript": "^4.4.4"
+  },
+  "keywords": [],
+  "author": "Dinesh Rawat",
+  "license": "MIT"
+}
