@@ -6,7 +6,8 @@
 
 Prodeasy section component: An intuitive and user-friendly UI element designed to simplify the process of creating and managing cards inside a section or a frame
 
-![Watch the video](https://github.com/dinesh-rawat-dev/Prodeasy-section-component/raw/main/section_component.mov)
+
+https://user-images.githubusercontent.com/12246927/233544206-45b43a5f-621e-409c-9966-b107764c185a.mov
 
 
 ## Demo
